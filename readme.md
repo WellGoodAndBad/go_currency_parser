@@ -6,5 +6,5 @@ The parser first collects proxies, looks for live proxies, and sends requests to
 ##### settings
 Fill the data in "config.json" file.
  
-###### -go build main.go
+###### -go rungi main.go
 
