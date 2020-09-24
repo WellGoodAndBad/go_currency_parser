@@ -1,0 +1,12 @@
+{
+  "database": {
+    "host": "localhost",
+    "password": "postgres",
+    "user": "postgres",
+    "dbname": "postgres",
+    "port": "5432"
+  },
+  "proxyUrl": "https://free-proxy-list.net/",
+  "currUrl": "https://www.xe.com/currencytables/?from=USD&date=%s",
+  "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
+}
